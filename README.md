@@ -1,9 +1,9 @@
 # I-mSomethingOfAPainterMyself
-CycleGAN generator of monet style paintings
-The results can be found on the link below
+    CycleGAN generator of monet style paintings
+    The results can be found on the link below
     https://www.kaggle.com/code/robertsandel/i-m-something-of-an-artist-myself
 ## Sources
-This project is done with the help of these URLS
+    This project is done with the help of these URLS
     https://www.kaggle.com/code/hardik201003/cyclegan-i-m-something-of-a-painter-myself
     https://www.kaggle.com/code/unfriendlyai/two-objective-discriminator
     https://www.kaggle.com/code/amyjang/monet-cyclegan-tutorial/notebook
